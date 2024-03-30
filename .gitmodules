@@ -13,3 +13,6 @@
 [submodule "42_tester_cub3d_parsing"]
 	path = 42_tester_cub3d_parsing
 	url = git@github.com:acardona123/42_tester_cub3d_parsing.git
+[submodule "42_tester_libft"]
+	path = 42_tester_libft
+	url = git@github.com:acardona123/42_tester_libft.git
