@@ -1,0 +1,15 @@
+[submodule "42_tester_minitalk"]
+	path = 42_tester_minitalk
+	url = git@github.com:acardona123/42_tester_minitalk.git
+[submodule "42_tester_get_next_line"]
+	path = 42_tester_get_next_line
+	url = git@github.com:acardona123/42_tester_get_next_line.git
+[submodule "42_tester_pushswap"]
+	path = 42_tester_pushswap
+	url = git@github.com:acardona123/42_tester_pushswap.git
+[submodule "42_tester_so_long_parsing"]
+	path = 42_tester_so_long_parsing
+	url = git@github.com:acardona123/42_tester_so_long_parsing.git
+[submodule "42_tester_cub3d_parsing"]
+	path = 42_tester_cub3d_parsing
+	url = git@github.com:acardona123/42_tester_cub3d_parsing.git
